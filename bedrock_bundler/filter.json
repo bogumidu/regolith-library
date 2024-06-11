@@ -1,0 +1,10 @@
+{
+    "description": "Bundles animation_controllers, animations, models and render_controllers into single files.",
+    "filters": [
+        {
+            "runWith": "nodejs",
+            "script": "./bbMain.js",
+            "name": "bedrock_bundler"
+        }
+    ]
+}

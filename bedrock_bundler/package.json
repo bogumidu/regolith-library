@@ -1,0 +1,16 @@
+{
+  "name": "bedrock-bundler",
+  "version": "1.0.0",
+  "main": "bbMain.js",
+  "scripts": {
+    "start": "node bbMain.js"
+  },
+  "keywords": [],
+  "author": "bogumidu",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "strip-json-comments": "^5.0.1"
+  }
+}
